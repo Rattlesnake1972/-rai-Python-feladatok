@@ -1,2 +1,2 @@
-Orai-Python-feladatok
-Python feladatok
+Orai-Python-feladatok IKT
+
