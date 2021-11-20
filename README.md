@@ -1,2 +1,2 @@
-# -rai-Python-feladatok
+Orai-Python-feladatok
 Python feladatok
